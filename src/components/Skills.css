@@ -1,0 +1,23 @@
+.skill-box {
+    background-color: yellow;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  
+  .skill-box h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .skill-box ul {
+    list-style: disc;
+    padding-left: 2rem;
+  }
+  
+  .skill-box li {
+    margin-bottom: 0.5rem;
+  }
+  

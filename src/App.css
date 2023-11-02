@@ -1,0 +1,57 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellow;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+section {
+  margin: 2rem;
+  padding: 2rem;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+.contact {
+  background-color: yellow;
+  color: black;
+  text-align: center;
+}
+
+/* Add more specific styles for your components as needed */
